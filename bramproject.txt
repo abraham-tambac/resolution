@@ -1,0 +1,4 @@
+Bramproject Resolution 2021
+- Focusing on Python Fundamentals 
+- Focusing on Graph Theory 
+- Focusing on Graph Forums
