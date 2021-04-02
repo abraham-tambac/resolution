@@ -4,4 +4,8 @@ Content Planning for Abraham-trg
    - Data Science
    - Machine Learning
  - PHP
+   - Larevel
  - Algo Expert
+ - Javascript
+   - Vue
+   - React
