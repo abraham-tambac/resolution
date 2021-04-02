@@ -3,5 +3,8 @@ Content Planning for Abraham-trg
    - Fundamentals Python Programming
    - Data Science
    - Machine Learning
+   - Django
  - PHP
+   - Codeigniter
  - Algo Expert
+ - Javascript
