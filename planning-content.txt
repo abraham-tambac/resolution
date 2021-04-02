@@ -5,6 +5,11 @@ Content Planning for Abraham-trg
    - Machine Learning
    - Django
  - PHP
-   - Codeigniter
+   - Larevel
  - Algo Expert
  - Javascript
+   - Vue
+   - React 
+ - Algo Expert
+ - Javascript
+
