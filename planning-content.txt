@@ -1,5 +1,6 @@
 Content Planning for Abraham-trg
  - Python
+   - Fundamentals Python Programming
    - Data Science
    - Machine Learning
  - PHP
